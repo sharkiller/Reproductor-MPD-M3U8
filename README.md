@@ -3,6 +3,13 @@
 ## Chrome Extension
 https://chrome.google.com/webstore/detail/reproductor-mpdm3u8/opmeopcambhfimffbomjgemehjkbbmji
 
+![Reproductor](https://i.imgur.com/mbJ6cFA.png)
+
+## Como configurar la extensión
+https://github.com/sharkiller/Reproductor-MPD-M3U8/wiki/Configuración
+
+![Configuración](https://i.imgur.com/3DFmeAE.png)
+
 ## Reportar bugs en:
 https://github.com/sharkiller/Reproductor-MPD-M3U8/issues
 
