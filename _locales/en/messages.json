@@ -1,0 +1,83 @@
+{
+    "extension_name": {
+        "message": "VideoPlayer MPD/M3U8/M3U"
+    },
+    "extension_description": {
+        "message": "Native video player for videos or livestreams in DASH (mpd), HLS (m3u8) format and M3U list."
+    },
+    "extension_on": {
+        "message": "(Click to deactivate)"
+    },
+    "extension_off": {
+        "message": "(Click to activate)"
+    },
+    "settings_options_title": {
+        "message": "Player Options"
+    },
+    "settings_options_active": {
+        "message": "Autoplay video links"
+    },
+    "settings_options_active_title": {
+        "message": "Open .mpd, .m3u8 or m3u links automatically\nin the video player when clicked"
+    },
+    "settings_options_lowlatency": {
+        "message": "Detect low latency streams"
+    },
+    "settings_options_lowlatency_title": {
+        "message": "Enable automatic low latency stream detection.\n\nIt can be disabled if there are buffering issues."
+    },
+    "settings_options_defaultaudio": {
+        "message": "Default audio language"
+    },
+    "settings_options_defaultaudio_title": {
+        "message": "Default language of audio tracks.\n\nIt only works on videos with properly configured audio languages."
+    },
+    "settings_license_title": {
+        "message": "Licensing options"
+    },
+    "settings_license_widevine": {
+        "message": "Use Custom Widevine Servers"
+    },
+    "settings_license_widevine_title": {
+        "message": "Force a custom Widevine license server."
+    },
+    "settings_license_widevine_error_line": {
+        "message": "Invalid line: "
+    },
+    "settings_license_widevine_error_regex": {
+        "message": "Invalid RegEx: "
+    },
+    "settings_license_widevine_error_url": {
+        "message": "Invalid URL: "
+    },
+    "settings_license_clearkey": {
+        "message": "Use custom ClearKeys list"
+    },
+    "settings_license_clearkey_title": {
+        "message": "Force a list of custom ClearKeys."
+    },
+    "settings_license_clearkey_error_keyid": {
+        "message": "Invalid KeyID: "
+    },
+    "settings_license_clearkey_error_key": {
+        "message": "The KeyID ${key} has an invalid key."
+    },
+    "settings_license_clearkey_error_value": {
+        "message": "Invalid Key: "
+    },
+    "settings_save_button": {
+        "message": "Save"
+    },
+    "settings_saved": {
+        "message": "Saved"
+    },
+    "settings_help": {
+        "message": "If you have questions about how to use and configure the extension you can read the Wiki"
+    },
+    "settings_github": {
+        "message": "Report bugs on Github"
+    },
+    "settings_paypal": {
+        "message": "Donate with PayPal"
+    }
+}

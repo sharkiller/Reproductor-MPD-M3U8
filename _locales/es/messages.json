@@ -1,0 +1,83 @@
+{
+    "extension_name": {
+        "message": "Reproductor MPD/M3U8/M3U"
+    },
+    "extension_description": {
+        "message": "Reproductor nativo para videos y vivos DASH (mpd), HLS (m3u8) y listas M3U"
+    },
+    "extension_on": {
+        "message": "(Click para desactivar)"
+    },
+    "extension_off": {
+        "message": "(Click para activar)"
+    },
+    "settings_options_title": {
+        "message": "Opciones del Reproductor"
+    },
+    "settings_options_active": {
+        "message": "Reproducir enlaces automáticamente"
+    },
+    "settings_options_active_title": {
+        "message": "Abrir enlaces .mpd, .m3u8 o .m3u automáticamente\nen el reproductor al cliquearlos"
+    },
+    "settings_options_lowlatency": {
+        "message": "Detectar streams de baja latencia"
+    },
+    "settings_options_lowlatency_title": {
+        "message": "Activar la detección automática de stream de baja latencia.\n\nSe puede desactivar si hay problemas de buffering."
+    },
+    "settings_options_defaultaudio": {
+        "message": "Lenguaje predeterminado de audio"
+    },
+    "settings_options_defaultaudio_title": {
+        "message": "Lenguaje predeterminado de las pistas de audio.\n\nSolo funciona en videos con lenguajes de audios configurados correctamente."
+    },
+    "settings_license_title": {
+        "message": "Opciones de licencias"
+    },
+    "settings_license_widevine": {
+        "message": "Usar servidores Widevine personalizados"
+    },
+    "settings_license_widevine_title": {
+        "message": "Forzar un servidor de licencias Widevine personalizado."
+    },
+    "settings_license_widevine_error_line": {
+        "message": "Línea inválida: "
+    },
+    "settings_license_widevine_error_regex": {
+        "message": "RegEx inválido: "
+    },
+    "settings_license_widevine_error_url": {
+        "message": "URL inválida: "
+    },
+    "settings_license_clearkey": {
+        "message": "Usar lista de ClearKeys personalizadas"
+    },
+    "settings_license_clearkey_title": {
+        "message": "Forzar una lista de ClearKeys personalizadas."
+    },
+    "settings_license_clearkey_error_keyid": {
+        "message": "KeyID inválida: "
+    },
+    "settings_license_clearkey_error_key": {
+        "message": "La KeyID ${key} tiene una key inválida."
+    },
+    "settings_license_clearkey_error_value": {
+        "message": "Key inválida: "
+    },
+    "settings_save_button": {
+        "message": "Guardar"
+    },
+    "settings_saved": {
+        "message": "Guardado"
+    },
+    "settings_help": {
+        "message": "Si tienes dudas de como usar y configurar la extensión puedes leer la Wiki"
+    },
+    "settings_github": {
+        "message": "Reportar bugs en Github"
+    },
+    "settings_paypal": {
+        "message": "Donar con PayPal"
+    }
+}
