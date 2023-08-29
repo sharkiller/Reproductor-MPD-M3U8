@@ -13,8 +13,8 @@ https://github.com/sharkiller/Reproductor-MPD-M3U8/wiki
 ## 🐞 Report bugs / Reportar bugs:
 https://github.com/sharkiller/Reproductor-MPD-M3U8/issues
 
-## 📨 If you want to report a bug in private you can contact me on Discord
-[@Sharkiller](https://discordapp.com/users/132582359131357184)  https://discordapp.com/users/132582359131357184
+## 📨 If you want to report a bug in private you can create a private ticket on Discord
+https://discord.gg/q3eukAQtzp
 
 ## 💸 Donaciones:
 [![Paypal](https://i.imgur.com/9jVylMm.png)](https://www.paypal.com/donate/?hosted_button_id=3ZU7B53B77VT2)
