@@ -1,6 +1,6 @@
 Help translate the extension: https://crowdin.com/project/reproductor-mpd [![Crowdin](https://badges.crowdin.net/reproductor-mpd/localized.svg)](https://crowdin.com/project/reproductor-mpd)
 
-# ▶ Reproductor MPD/M3U8/M3U
+# ▶ Reproductor MPD/M3U8/M3U/EPG
 
 ![Reproductor](https://github.com/sharkiller/Reproductor-MPD-M3U8/assets/712193/c5bf1386-6cb2-44e2-9d6c-04c4eb60ecb8)
 
@@ -14,6 +14,8 @@ https://github.com/sharkiller/Reproductor-MPD-M3U8/wiki
 https://github.com/sharkiller/Reproductor-MPD-M3U8/issues
 
 ## 📨 If you want to report a bug in private you can create a private ticket on Discord
+[![Discord](https://i.imgur.com/8EJppoQ.png)](https://discord.gg/q3eukAQtzp)
+
 https://discord.gg/q3eukAQtzp
 
 ## 💸 Donaciones:
