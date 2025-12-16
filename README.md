@@ -2,7 +2,7 @@ Help translate the extension: https://crowdin.com/project/reproductor-mpd [![Cro
 
 # ▶ Reproductor MPD/M3U8/IPTV/EPG
 
-![Reproductor](https://github.com/sharkiller/Reproductor-MPD-M3U8/assets/712193/c5bf1386-6cb2-44e2-9d6c-04c4eb60ecb8)
+![Reproductor](https://github.com/user-attachments/assets/21f01545-8b6d-43fa-9d7e-0f3045ee60b9)
 
 ## 🧩 Chrome Extension
 https://chromewebstore.google.com/detail/videoplayer-mpdm3u8iptvepg/opmeopcambhfimffbomjgemehjkbbmji
