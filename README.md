@@ -10,6 +10,7 @@ Translators get a Donor Key. If you miss yours, contact me throught your Crowdin
 
 ## 🧩 Chrome Extension
 https://chromewebstore.google.com/detail/videoplayer-mpdm3u8iptvepg/opmeopcambhfimffbomjgemehjkbbmji
+https://sharkiller.dev/videoplayer/
 
 ## ❓How to use / Como usar
 https://github.com/sharkiller/Reproductor-MPD-M3U8/wiki
@@ -29,11 +30,7 @@ Telegram Group: https://t.me/videoplayer_iptv
 Private Message: https://t.me/Sh4rkill3r
 
 ## 💸 Donaciones:
-[![Paypal](https://i.imgur.com/9jVylMm.png)](https://www.paypal.com/donate/?hosted_button_id=3ZU7B53B77VT2)
-
-<a href="https://sh4rkill3r.gumroad.com/l/videoplayer-mpd-m3u8-iptv-epg">
-<img width="64" height="64" alt="Gumroad Logo" src="https://github.com/user-attachments/assets/462a460d-8813-43bf-b22a-691807bb3b99" />
-</a>
+[![Paypal](https://i.imgur.com/9jVylMm.png)](https://sharkiller.dev/videoplayer/subscribe/)
 
 &nbsp;<br>&nbsp;
 
