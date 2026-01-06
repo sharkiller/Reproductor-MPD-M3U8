@@ -1,9 +1,9 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Bug Report
+about: Create a report of a bug you found in the extension
 title: ''
 labels: bug
-assignees: ''
+assignees: sharkiller
 
 ---
 
@@ -24,14 +24,14 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+ - OS: [e.g. Windows, Linux]
+ - Browser [e.g. Chrome, Firefox]
+ - Version [e.g. 142]
 
 **Smartphone (please complete the following information):**
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+ - OS: [e.g. Android, iOS]
+ - Browser [e.g. Edge, Firefox, Kiwi]
+ - Version [e.g. 125]
 
 **Additional context**
 Add any other context about the problem here.
