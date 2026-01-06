@@ -1,7 +1,0 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://placehold.co/100x50.png?text=HLS+TEST" group-title="TEST",HLS LIVE (m3u8)
-https://cph-msl.akamaized.net/hls/live/2000341/test/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://placehold.co/100x50.png?text=DASH+TEST" group-title="TEST",DASH LIVE (mpd)
-https://cph-msl.akamaized.net/dash/live/2003285/test/manifest.mpd
